@@ -1,0 +1,99 @@
+{D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/alusrc2mux.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/alusrc2mux.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module alusrc2mux
+
+Top level modules:
+	alusrc2mux
+
+} {} {}} {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/addressmux.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/addressmux.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module addressmux
+
+Top level modules:
+	addressmux
+
+} {} {}} {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/controlunit.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/controlunit.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module controlunit
+
+Top level modules:
+	controlunit
+
+} {} {}} {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/datamem.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/datamem.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module datamem
+
+Top level modules:
+	datamem
+
+} {} {}} {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/alu.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/alu.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/pcadder.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/pcadder.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module pcadder
+
+Top level modules:
+	pcadder
+
+} {} {}} {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/alusrc1mux.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/alusrc1mux.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module alusrc1mux
+
+Top level modules:
+	alusrc1mux
+
+} {} {}} {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/srcounter.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/srcounter.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module srccounter
+
+Top level modules:
+	srccounter
+
+} {} {}} {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/regfile.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/regfile.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/inregmux.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/inregmux.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module inregmux
+
+Top level modules:
+	inregmux
+
+} {} {}} {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/instrmem.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/instrmem.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module instrmem
+
+Top level modules:
+	instrmem
+
+} {} {}} {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/topmod.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/topmod.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module topmod
+
+Top level modules:
+	topmod
+
+} {} {}} {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/loaddec.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/loaddec.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module loaddec
+
+Top level modules:
+	loaddec
+
+} {} {}} {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/pcmux.v} {1 {vlog -work work -vopt -stats=none {D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/pcmux.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module pcmux
+
+Top level modules:
+	pcmux
+
+} {} {}}

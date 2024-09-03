@@ -1,0 +1,408 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/questasim64_2021.1/examples
+T_opt
+!s110 1725237260
+V_4TGJYP@dCfLQFGiKU@bz0
+04 6 4 work topmod fast 0
+=6-c85b7667dfe0-66d5080b-29b-8fc
+Z2 !s124 OEM100
+Z3 o-quiet -auto_acc_if_foreign -work work +acc
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+T_opt1
+!s110 1725218815
+V>>Vif?M5dB6o]?So:iAn82
+04 10 4 work alusrc1mux fast 0
+=1-c85b7667dfe0-66d4bffe-1af-39b0
+R2
+R3
+R4
+n@_opt1
+R5
+R1
+T_opt2
+!s110 1725234181
+VcL0iQIKdQH5f]jX6JL]0]2
+04 7 4 work regfile fast 0
+=2-c85b7667dfe0-66d4fc05-16d-42b4
+R2
+R3
+R4
+n@_opt2
+R5
+R1
+vaddressmux
+Z6 !s110 1725237254
+!i10b 1
+!s100 LK5@PoXPE3iN[>zhn7EBN0
+IWWcHFaQ<22;zGnA9zzeLT1
+Z7 dD:/Digital Electronics/ASIP Course/Tasks/MKProcessor
+w1725226737
+8D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/addressmux.v
+FD:/Digital Electronics/ASIP Course/Tasks/MKProcessor/addressmux.v
+!i122 234
+L0 1 42
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z10 !s108 1725237254.000000
+!s107 D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/addressmux.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/addressmux.v|
+!i113 0
+Z11 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+valu
+Z12 !s110 1725237255
+!i10b 1
+!s100 EAf64F?BhBBGo64PD4z^K2
+I_SUKA6?Oc[`:_XfAZnn[V1
+R7
+w1725211653
+8D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/alu.v
+FD:/Digital Electronics/ASIP Course/Tasks/MKProcessor/alu.v
+!i122 239
+L0 1 22
+R8
+R9
+r1
+!s85 0
+31
+Z13 !s108 1725237255.000000
+!s107 D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/alu.v|
+!i113 0
+R11
+R4
+valusrc1mux
+Z14 !s110 1725237256
+!i10b 1
+!s100 J?gMg]VRHMfeMT<jD>LVQ0
+I_JTo2cULCH1WHNeW5kg3S3
+R7
+w1725229440
+8D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/alusrc1mux.v
+FD:/Digital Electronics/ASIP Course/Tasks/MKProcessor/alusrc1mux.v
+!i122 242
+L0 1 45
+R8
+R9
+r1
+!s85 0
+31
+Z15 !s108 1725237256.000000
+!s107 D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/alusrc1mux.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/alusrc1mux.v|
+!i113 0
+R11
+R4
+valusrc2mux
+R14
+!i10b 1
+!s100 6?VbiEk1RX=MbE=J]0CBc0
+Id^KVMkRMXa6f1GS77I><U3
+R7
+w1725229430
+8D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/alusrc2mux.v
+FD:/Digital Electronics/ASIP Course/Tasks/MKProcessor/alusrc2mux.v
+!i122 243
+Z16 L0 1 43
+R8
+R9
+r1
+!s85 0
+31
+R15
+!s107 D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/alusrc2mux.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/alusrc2mux.v|
+!i113 0
+R11
+R4
+vcontrolunit
+R14
+!i10b 1
+!s100 _hW>[EGhEbX<0`[BFULVo0
+IIzhPDhEj2RW464i[F]kSc0
+R7
+w1725235124
+8D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/controlunit.v
+FD:/Digital Electronics/ASIP Course/Tasks/MKProcessor/controlunit.v
+!i122 244
+L0 1 93
+R8
+R9
+r1
+!s85 0
+31
+R15
+!s107 D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/controlunit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/controlunit.v|
+!i113 0
+R11
+R4
+vdatamem
+R14
+!i10b 1
+!s100 c89LmJVm61h6=i99FzWG^2
+I5H61zkSb0ecob>W?dUPg41
+R7
+w1725229545
+8D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/datamem.v
+FD:/Digital Electronics/ASIP Course/Tasks/MKProcessor/datamem.v
+!i122 241
+L0 1 24
+R8
+R9
+r1
+!s85 0
+31
+R15
+!s107 D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/datamem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/datamem.v|
+!i113 0
+R11
+R4
+vinregmux
+R14
+!i10b 1
+!s100 h0Hf00J]Wj<SlGdEH?K[Q1
+IGXVKX29cCoH;f5`GR56K:2
+R7
+w1725224008
+8D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/inregmux.v
+FD:/Digital Electronics/ASIP Course/Tasks/MKProcessor/inregmux.v
+!i122 245
+L0 1 6
+R8
+R9
+r1
+!s85 0
+31
+R15
+!s107 D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/inregmux.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/inregmux.v|
+!i113 0
+R11
+R4
+vinstrmem
+R12
+!i10b 1
+!s100 4^7VM0>Zlc3?g0kgziED=2
+I0RiSYo5a;864ETfdFzW8>2
+R7
+w1725218042
+8D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/instrmem.v
+FD:/Digital Electronics/ASIP Course/Tasks/MKProcessor/instrmem.v
+!i122 240
+Z17 L0 1 16
+R8
+R9
+r1
+!s85 0
+31
+R13
+!s107 D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/instrmem.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/instrmem.v|
+!i113 0
+R11
+R4
+vloaddec
+R6
+!i10b 1
+!s100 [di]k;g]j2CL1o]@]gNQm2
+IYzRV:N1`DMU;>ebLTXMN40
+R7
+w1725232810
+8D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/loaddec.v
+FD:/Digital Electronics/ASIP Course/Tasks/MKProcessor/loaddec.v
+!i122 235
+R16
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/loaddec.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/loaddec.v|
+!i113 0
+R11
+R4
+vpcadder
+R12
+!i10b 1
+!s100 A7OW^:N3b]JEhgF2cjIlf2
+Ik^>VOU^nbO1eE4ml64PBG1
+R7
+w1725217623
+8D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/pcadder.v
+FD:/Digital Electronics/ASIP Course/Tasks/MKProcessor/pcadder.v
+!i122 238
+R17
+R8
+R9
+r1
+!s85 0
+31
+R13
+!s107 D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/pcadder.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/pcadder.v|
+!i113 0
+R11
+R4
+vpcmux
+R6
+!i10b 1
+!s100 AY1R^QZb?FkM[BWUCfVQa1
+Ie?z@ZGUjI[m65`J88;X<d2
+R7
+w1725217647
+8D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/pcmux.v
+FD:/Digital Electronics/ASIP Course/Tasks/MKProcessor/pcmux.v
+!i122 233
+L0 1 14
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/pcmux.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/pcmux.v|
+!i113 0
+R11
+R4
+vregfile
+R12
+!i10b 1
+!s100 :[J3cYL8D;ONz_3f?MnfY2
+IYmDdEB_8B@]jo`N]8:YNc0
+R7
+w1725234396
+8D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/regfile.v
+FD:/Digital Electronics/ASIP Course/Tasks/MKProcessor/regfile.v
+!i122 237
+L0 1 51
+R8
+R9
+r1
+!s85 0
+31
+R13
+!s107 D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/regfile.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/regfile.v|
+!i113 0
+R11
+R4
+vsrccounter
+R12
+!i10b 1
+!s100 FZVZJHP3mbd4Gf:XYQI9K3
+I_@Teb4VO5n@1Jj>]]Njf>0
+R7
+w1725210382
+Z18 8D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/srcounter.v
+Z19 FD:/Digital Electronics/ASIP Course/Tasks/MKProcessor/srcounter.v
+!i122 236
+L0 1 37
+R8
+R9
+r1
+!s85 0
+31
+R13
+Z20 !s107 D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/srcounter.v|
+Z21 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/srcounter.v|
+!i113 0
+R11
+R4
+vsrcounter
+!s110 1725205868
+!i10b 1
+!s100 WVcNYmd1hd=`jhPncOE3@2
+I]PTBiaYg0=0=ChN6WH8g<3
+R7
+w1725196420
+R18
+R19
+!i122 57
+L0 1 26
+R8
+R9
+r1
+!s85 0
+31
+!s108 1725205868.000000
+R20
+R21
+!i113 0
+R11
+R4
+vtopmod
+R14
+!i10b 1
+!s100 a4lXlR<ZNE[gMaO1jZ9N_2
+I<[;6odKEW7UM5BDP?nJ932
+R7
+w1725237148
+8D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/topmod.v
+FD:/Digital Electronics/ASIP Course/Tasks/MKProcessor/topmod.v
+!i122 246
+L0 1 40
+R8
+R9
+r1
+!s85 0
+31
+R15
+!s107 D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/topmod.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Digital Electronics/ASIP Course/Tasks/MKProcessor/topmod.v|
+!i113 0
+R11
+R4
