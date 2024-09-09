@@ -5,6 +5,7 @@ wire [7:0] src1,src2,pcincr,pc,addout,dataout_mem,regfile_in,aluout;
 wire [255:0] regfile;
 wire [4:0] addsel;
 wire [5:0] loadsel;
+wire write,read;
 wire [31:0] instr,regloads;
 
 pcmux pcmuxtop(.pcincr1(8'b1), .pcsrc1(src1), .selpc(selpc), .pcincr(pcincr));
